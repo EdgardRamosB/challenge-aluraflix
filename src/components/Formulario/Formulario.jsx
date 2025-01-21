@@ -287,7 +287,7 @@ const Formulario = () => {
         <SectionButton>
           <FormButton
             text={loading ? "GUARDANDO..." : "GUARDAR"}
-            color="#dedc6d"
+            color="#2271D1"
             type="submit"
             disabled={loading}
           />
