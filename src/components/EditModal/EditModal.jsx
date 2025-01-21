@@ -22,9 +22,9 @@ const ModalContainer = styled.div`
   max-width: 95%;
   display: flex;
   flex-direction: column;
-  color: #f5f5f5;
+  color:rgb(240, 18, 18);
   border-radius: 8px;
-  border: 6px solid #6bd1ff;
+  border: 6px solidrgb(32, 9, 240);
   max-height: 80vh;
   overflow-y: auto;
 
