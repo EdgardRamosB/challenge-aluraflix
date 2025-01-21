@@ -122,7 +122,7 @@ const Button = styled.button`
   font-family: "Source Code Pro", serif;
   font-size: 20px;
   font-weight: 500;
-  border-radius: 10px;
+  border-radius: 1px;
   border-color:  'white';
   border-width: 3px;
   border-style: solid;
