@@ -112,7 +112,7 @@ const LargeInput = styled.div`
     resize: vertical;
     padding: 10px;
     font-size: 16px;
-    background-color:rgb(247, 23, 23);
+    background-color:rgb(240, 168, 12);
     color: white;
   }
 `;
@@ -287,7 +287,7 @@ const Formulario = () => {
         <SectionButton>
           <FormButton
             text={loading ? "GUARDANDO..." : "GUARDAR"}
-            color="#2271D1"
+            color="#dedc6d"
             type="submit"
             disabled={loading}
           />
