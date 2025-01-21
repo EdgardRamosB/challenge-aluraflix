@@ -7,7 +7,7 @@ const Contenedor = styled.div`
   align-items: center;
   justify-content: center;
   background-color: ${(props) => props.$color || "transparent"};
-  border: 2px solid #000;
+  border: 0px solid #000;
   box-sizing: border-box;
   border-radius: 25px;
   
@@ -28,7 +28,7 @@ const Contenedor = styled.div`
 `;
 
 const Titulo = styled.h1`
-  color: #f5f5f5;
+  color:rgb(157, 172, 106);
   font-family: "Roboto", serif;
   font-weight: 500;
   font-size: ${(props) => props.$TLetra};

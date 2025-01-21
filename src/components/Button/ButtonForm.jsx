@@ -20,11 +20,11 @@ const ButtonForm = (props) => {
         sx={{
           backgroundColor: props.isActive ? "#000" : "transparent",
           color: props.isActive ? "#2271D1" : "#FFF",
-          border: `2px solid ${props.isActive ? "#2271D1" : "#FFF"}`,
+          border: `0px solid ${props.isActive ? "#2271D1" : "#FFF"}`,
           width: "180.12px",
           height: "54px",
           borderRadius: "10px",
-          boxShadow: props.isActive ? "inset 0 0 10px #2271D1" : "none",
+          boxShadow: props.isActive ? "inset 0 0 10pxrgb(209, 139, 34)" : "none",
         }}
       >
         {props.texto}

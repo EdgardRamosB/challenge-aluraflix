@@ -2,7 +2,7 @@ import styled from "styled-components"
 
 
 const Background = styled.div`
-background: #262626;
+background:rgb(0, 0, 0);
 `
 
 export default Background
