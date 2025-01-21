@@ -8,7 +8,7 @@ const HeaderStyle = styled.header`
   padding-left: 51.15px;
   display: flex;
   justify-content: space-between;
-  border-bottom : 5px solid #2271D1;
+  border-bottom : 1px solid #2271D1;
   background-color: ${(props) => (props.$isHome ? "#262626" : "rgb(0, 0, 0)")};
   
   img {
