@@ -23,7 +23,7 @@ const Titulo = styled.h1`
 
 const Subtitulo = styled.h3`
   display: flex;
-  color: #f5f5f5;
+  color:rgb(235, 219, 2);
   font-family: "Roboto", serif;
   font-weight: 300;
   align-items: center;
@@ -112,7 +112,7 @@ const LargeInput = styled.div`
     resize: vertical;
     padding: 10px;
     font-size: 16px;
-    background-color: #262626;
+    background-color:rgb(247, 23, 23);
     color: white;
   }
 `;
@@ -232,8 +232,8 @@ const Formulario = () => {
 
   return (
     <form onSubmit={SendInfo}>
-      <Titulo>NUEVO VIDEO</Titulo>
-      <Subtitulo>COMPLETE EL FORMULARIO PARA CREAR UNA NUEVA TARJETA DE VIDEO</Subtitulo>
+      <Titulo>---- NUEVO VIDEO-----</Titulo>
+      <Subtitulo>COMPLETE EL REGISTRO PARA INSERTAR UN NUEVO VIDEO</Subtitulo>
       <Container>
         <Titulo2>Crear Tarjeta</Titulo2>
         <SectionInput>
