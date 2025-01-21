@@ -88,7 +88,7 @@ const Footer = () => {
       <Link to="/">
         <Image src="/image/LogoMain.png" alt="Logo AluraFlix" />
       </Link>
-      <Text>Creado por Luis Morúa</Text>
+      <Text>Creado Edgard Ramos</Text>
     </HeaderStyle>
   );
 };
