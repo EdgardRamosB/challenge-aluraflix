@@ -1,2 +1,2 @@
 Proyecto Final Alura Latam
-Luis Morua 2025
+Edgard Ramos 2025

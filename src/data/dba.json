@@ -2,11 +2,11 @@
   "videos": [
     {
       "id": "1",
-      "Titulo": "Equipo Front End #AluraMás",
+      "Titulo": "¿Cuál es la diferencia entre Front End y Back End?d #AluraMás",
       "Imagen": "https://i.ytimg.com/vi/rpvrLaBQwgg/maxresdefault.jpg",
-      "Video": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+      "Video": "https://www.youtube.com/watch?v=R9uaBxgCkyA",
       "Categoria": "FRONT END",
-      "Descripcion": "En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End."
+      "Descripcion": "En este Alura Más, Jeanmarie Quijada nos explica las principales diferencias y terminologias del desarrollo web.."
     },
     {
       "id": "2",
