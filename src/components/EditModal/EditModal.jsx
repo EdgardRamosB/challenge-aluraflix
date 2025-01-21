@@ -67,7 +67,7 @@ const Select = styled.select`
   width: 573px;
   padding: 10px;
   background-color: transparent;
-  color: #f5f5f5;
+  color:rgb(255, 255, 255);
   border-radius: 10px;
   border-width: 3px;
   border-style: solid;
@@ -97,7 +97,7 @@ const TextArea = styled.textarea`
   padding: 10px;
   font-size: 16px;
   background-color: #03122f;
-  color: #f5f5f5;
+  color:rgb(255, 255, 255);
 `;
 
 const ButtonGroup = styled.div`

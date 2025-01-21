@@ -28,7 +28,7 @@ const Contenedor = styled.div`
 `;
 
 const Titulo = styled.h1`
-  color:rgb(157, 172, 106);
+  color:rgb(252, 252, 252);
   font-family: "Roboto", serif;
   font-weight: 500;
   font-size: ${(props) => props.$TLetra};
